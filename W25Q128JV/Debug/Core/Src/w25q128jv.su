@@ -1,0 +1,17 @@
+w25q128jv.c:27:21:w25q128jv_init	24	static
+w25q128jv.c:49:21:w25q128jv_deinit	24	static
+w25q128jv.c:73:21:w25q128jv_erase_4kb	24	static
+w25q128jv.c:81:21:w25q128jv_erase_32kb	24	static
+w25q128jv.c:88:21:w25q128jv_erase_64kb	24	static
+w25q128jv.c:97:21:w25q128jv_erase_chip	24	static
+w25q128jv.c:106:21:w25q128jv_erase	96	static
+w25q128jv.c:185:35:w25q128jv_qspi_enable	24	static
+w25q128jv.c:215:35:w25q128jv_write_enable	80	static
+w25q128jv.c:373:35:w25q128jv_read_stat_reg	88	static
+w25q128jv.c:417:21:w25q128jv_fast_read_quad_io	88	static
+w25q128jv.c:472:21:w25q128jv_quad_input_page_program	88	static
+w25q128jv.c:531:35:w25q128jv_wait_until_busy_reset	104	static
+w25q128jv.c:570:21:w25q128jv_read_unique_id	80	static
+w25q128jv.c:612:21:w25q128jv_read_jedec_id	88	static
+w25q128jv.c:672:35:w25q128jv_error_cnvrt	16	static
+w25q128jv.c:708:6:w25q32jv_get_uid_string	48	static

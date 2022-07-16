@@ -1,0 +1,4 @@
+wrap.c:17:12:wrap_qspi_command_send	80	static
+wrap.c:152:12:wrap_qspi_receive	24	static
+wrap.c:174:12:wrap_qspi_transmit	24	static
+wrap.c:193:12:wrap_qspi_auto_polling	112	static

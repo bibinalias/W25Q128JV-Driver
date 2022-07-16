@@ -1,0 +1,6 @@
+callback.c:12:6:HAL_UART_TxCpltCallback	16	static
+callback.c:19:6:HAL_QSPI_RxCpltCallback	16	static
+callback.c:26:6:HAL_QSPI_ErrorCallback	16	static
+callback.c:35:6:HAL_QSPI_TxCpltCallback	16	static
+callback.c:40:6:HAL_QSPI_CmdCpltCallback	16	static
+callback.c:49:6:HAL_QSPI_StatusMatchCallback	16	static
